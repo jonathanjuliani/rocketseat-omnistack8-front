@@ -71,3 +71,10 @@ F5F4F2
   transform: translateY(5px);
   transition: all 0.2s;
 }
+
+.main-container .empty {
+  font-size: 32px;
+  color: #f5f4f2;
+  font-weight: bold;
+  margin-top: 300px;
+}
